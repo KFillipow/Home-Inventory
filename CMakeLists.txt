@@ -9,4 +9,4 @@ project(home_inventory)
 #add sources
 file(GLOB SOURCES "src/*.c")
 
-add_executable(testcmake ${SOURCES})
+add_executable(inventory ${SOURCES})

@@ -1,0 +1,3 @@
+/home/kai/home_inventory/bin/CMakeFiles/rebuild_cache.dir
+/home/kai/home_inventory/bin/CMakeFiles/inventory.dir
+/home/kai/home_inventory/bin/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc    CMakeFiles/inventory.dir/src/main.c.o  -o inventory 
